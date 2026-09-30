@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: >-
+  If you use grt in your research, please cite the finite-measurements paper
+  listed below as the preferred citation.
+type: software
+title: Numerical reconstruction for inverse problems
+authors:
+  - family-names: Assylbekov
+    given-names: Yernat M.
+preferred-citation:
+  type: unpublished
+  title: "Inverting the geodesic ray transform with finite measurements: stability and reconstruction"
+  authors:
+    - family-names: Assylbekov
+      given-names: Yernat M.
