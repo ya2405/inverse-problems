@@ -8,8 +8,11 @@ authors:
   - family-names: Assylbekov
     given-names: Yernat M.
 preferred-citation:
-  type: unpublished
+  type: article
   title: "Inverting the geodesic ray transform with finite measurements: stability and reconstruction"
   authors:
     - family-names: Assylbekov
       given-names: Yernat M.
+  year: 2026
+  doi: 10.48550/arXiv.2609.40015
+  url: https://arxiv.org/abs/2609.40015
